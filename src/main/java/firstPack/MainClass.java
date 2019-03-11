@@ -7,6 +7,9 @@ public class MainClass {
 		
 		printer printme = new printer();
 		printme.printerClass("I am a little teapot");
+		
+		addnumbers addn = new addnumbers();
+		addn.addNumbers(5, 13);
 
 	}
 
